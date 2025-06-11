@@ -1,3 +1,5 @@
+📄 License: CC-BY 4.0 — You can use, remix, and build on this project with attribution. See [LICENSE.txt](./LICENSE.txt) for details.
+
 # KhaM – A Cultural Memory Engine for South Asian AI
 
 KhaM is an open-source project preserving the **emotional nuance**, **dialectal memory**, and **cultural context** of South Asian languages for use in AI systems.
